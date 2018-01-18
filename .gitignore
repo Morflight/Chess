@@ -1,0 +1,16 @@
+# COMPILED FILES #
+##################
+
+*.class
+
+# FOLDERS #
+###########
+src
+
+# ECLIPSE GENERATED FILES #
+###########################
+
+.settings
+.settings/*
+.classpath
+.project
